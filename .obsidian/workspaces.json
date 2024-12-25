@@ -1,0 +1,160 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "e8b4ea94b39a8520",
+        "type": "split",
+        "children": [
+          {
+            "id": "8bbe2deff908dd60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "da8864fe43b8f2e2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "88-Template/home.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "687357708cbc920f",
+        "type": "split",
+        "children": [
+          {
+            "id": "4bc1edcafd063cfb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "37c8f55a8ef7a09c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b3290ae399933a0b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "04a2703bafb6353f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 276.9945435523987
+      },
+      "right": {
+        "id": "4e390742ffc29613",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4c25b22f0c7d5f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "340969ccd24905e8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "88-Template/home.md"
+                  }
+                }
+              },
+              {
+                "id": "b2ae90cb6049dbe9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "dc4a81bfd6624166",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "88-Template/home.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "041c78328387b373",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "88-Template/home.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTime",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 267.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": true,
+          "canvas:新建白板": false,
+          "templates:插入模板": true,
+          "command-palette:打开命令面板": true,
+          "markdown-importer:打开 Markdown 格式转换器": true,
+          "workspaces:管理工作区布局": true
+        }
+      },
+      "active": "37c8f55a8ef7a09c"
+    }
+  },
+  "active": "Home"
+}

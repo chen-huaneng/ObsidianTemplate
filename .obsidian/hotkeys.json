@@ -1,0 +1,336 @@
+{
+  "markdown-table-editor:markdown-table-editor-open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-better-command-palette:open-better-commmand-palette": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "editor:insert-wikilink": [],
+  "obsidian-baozhuang:mode-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "multi-color-preview:mode-preview": [],
+  "obsidian-version-history-diff:open-recovery-diff-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "obsidian-regex-replace:obsidian-regex-replace": [],
+  "markdown-prettifier:markdown-prettifier-run": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-editing-toolbar:editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "tab-switcher:open-switcher-for-tabs": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "canvas-presentation:next-slide": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "canvas-presentation:previous-slide": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "canvas-presentation:mark-slide-number": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "canvas-mindmap:split-into-mindmap": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "link-nodes-in-canvas:link-between-selection-nodes": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "obsidian-linter:lint-file": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-format-selection": [],
+  "easy-typing-obsidian:easy-typing-format-article": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "editor:insert-link": [],
+  "app:open-help": [],
+  "editor:follow-link": [],
+  "app:go-back": [],
+  "graph:open": [],
+  "switcher:open": [],
+  "app:go-forward": [],
+  "editor:toggle-italics": [],
+  "editor:delete-paragraph": [],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-split": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "Enhanced-editing:xiahua-text": [],
+  "Enhanced-editing:xiahua-format": [],
+  "Enhanced-editing:internal-link": [],
+  "Enhanced-editing:internal-link2": [],
+  "Enhanced-editing:xieti-format": [],
+  "Enhanced-editing:tag-text": [],
+  "Enhanced-editing:gaoliang-text": [],
+  "Enhanced-editing:gaoliang-format": [],
+  "Enhanced-editing:shanchu-text": [],
+  "Enhanced-editing:shanchu-format": [],
+  "Enhanced-editing:add-Line0": [],
+  "Enhanced-editing:open-up": [],
+  "Enhanced-editing:open-down": [],
+  "Enhanced-editing:copy-text": [],
+  "Enhanced-editing:jisuan-form": [],
+  "Enhanced-editing:add-lines": [],
+  "Enhanced-editing:del-lines": [],
+  "Enhanced-editing:link-showname": [],
+  "Enhanced-editing:mouse-up": [],
+  "Enhanced-editing:mouse-down": [],
+  "Enhanced-editing:mouse-start": [],
+  "Enhanced-editing:mouse-end": [],
+  "Enhanced-editing:mouse-right": [],
+  "Enhanced-editing:mouse-left": [],
+  "Enhanced-editing:zhe-level2": [],
+  "Enhanced-editing:zhe-level6": [],
+  "Enhanced-editing:zhe-level3": [],
+  "Enhanced-editing:zhe-level4": [],
+  "Enhanced-editing:zhe-lines": [],
+  "Enhanced-editing:zhe-level5": [],
+  "Enhanced-editing:auto-text": [],
+  "Enhanced-editing:paste-text": [],
+  "Enhanced-editing:text-background1": [],
+  "Enhanced-editing:text-background2": [],
+  "Enhanced-editing:text-background3": [],
+  "Enhanced-editing:text-background4": [],
+  "Enhanced-editing:text-background5": [],
+  "Enhanced-editing:text-Color1": [],
+  "Enhanced-editing:text-Color2": [],
+  "Enhanced-editing:text-Color3": [],
+  "Enhanced-editing:text-Color4": [],
+  "Enhanced-editing:text-Color5": [],
+  "Enhanced-editing:common-text": [],
+  "Enhanced-editing:leftWin-Up": [],
+  "Enhanced-editing:leftWin-Down": [],
+  "Enhanced-editing:biaoti1-text": [],
+  "Enhanced-editing:biaoti2-text": [],
+  "Enhanced-editing:biaoti3-text": [],
+  "Enhanced-editing:biaoti4-text": [],
+  "Enhanced-editing:biaoti5-text": [],
+  "Enhanced-editing:biaoti6-text": [],
+  "editor:toggle-comments": [],
+  "table-editor-obsidian:table-control-bar": [],
+  "obsidian-autocomplete-plugin:autocomplete-toggle": [],
+  "editing-toolbar:fullscreen-focus": [],
+  "editing-toolbar:header0-text": [],
+  "editing-toolbar:workplace-fullscreen-focus": [],
+  "workspace:goto-last-tab": [],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "templater-obsidian:insert-templater": [],
+  "templater-obsidian:replace-in-file-templater": [],
+  "various-complements:add-word-custom-dictionary": [],
+  "various-complements:show-suggestions": [],
+  "obsidian-checklist-plugin:show-checklist-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "Enhanced-editing:xieti-text": [],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "8"
+    }
+  ],
+  "Enhanced-editing:cuti-text": [],
+  "Enhanced-editing:cuti-format": [],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "workspace:goto-tab-8": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-1": [],
+  "obsidian-language-learner:langr-refresh-word-database": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "workspaces:save-and-load": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
+  ]
+}

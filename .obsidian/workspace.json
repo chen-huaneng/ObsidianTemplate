@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e8b4ea94b39a8520",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bbe2deff908dd60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da8864fe43b8f2e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "88-Template/home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "687357708cbc920f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc1edcafd063cfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c8f55a8ef7a09c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b3290ae399933a0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "04a2703bafb6353f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.9945435523987
+  },
+  "right": {
+    "id": "4e390742ffc29613",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c25b22f0c7d5f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340969ccd24905e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "88-Template/home.md"
+              },
+              "icon": "lucide-list",
+              "title": "home 的大纲"
+            }
+          },
+          {
+            "id": "b2ae90cb6049dbe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dc4a81bfd6624166",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "88-Template/home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "home 的出链列表"
+            }
+          },
+          {
+            "id": "041c78328387b373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "88-Template/home.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "home 的反向链接列表"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:查看关系图谱": false,
+      "switcher:打开快速切换": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "workspaces:管理工作区布局": true
+    }
+  },
+  "active": "37c8f55a8ef7a09c",
+  "lastOpenFiles": [
+    "88-Template/tp/Template.md",
+    "88-Template/home.md",
+    "50-Inbox/未命名.md",
+    "60-CS/Algorithms/Algorithms_Problem.md",
+    "99-Attachment/images/Gallery_Computer_science/微信图片_20230524131055.jpg",
+    "99-Attachment/mix/OIP-C.jpg",
+    "99-Attachment/mix/OIP-C 1.jpg",
+    "99-Attachment/mix",
+    "99-Attachment/images/Gallery_Computer_science/SelfLearning/R-C.jpg",
+    "99-Attachment/images/Gallery_Computer_science/SelfLearning/OIP-C.jpg",
+    "99-Attachment/images/Gallery_Computer_science/SelfLearning/C-Primer-Plus第6版中文版.jpg",
+    "99-Attachment/images/Gallery_Computer_science/CS61B/access_modifiers.png",
+    "99-Attachment/images/Gallery_Computer_science/网页捕获_24-3-2023_222638_blog.csdn.net.jpeg",
+    "99-Attachment/images/Gallery_Computer_science/tropical-year-illustration.png",
+    "99-Attachment/images/Gallery_Computer_science/SelfLearning",
+    "99-Attachment/images/Gallery_Computer_science/QQ截图20230818230244.png",
+    "99-Attachment/images/Gallery_Computer_science/CS61B",
+    "99-Attachment/images/Gallery_Computer_science",
+    "60-CS/Algorithms/Leap_year.md",
+    "60-CS/C_CPP/C标准库/C标准库-time.h.md",
+    "60-CS/C_CPP/C标准库/C标准库-string.h.md",
+    "60-CS/C_CPP/C标准库/C标准库-stdlib. h.md",
+    "60-CS/C_CPP/C标准库/C标准库-stdio.h.md",
+    "60-CS/C_CPP/C标准库/C标准库-stdarg.h.md",
+    "60-CS/C_CPP/C标准库/0-C标准库目录.md",
+    "60-CS/C_CPP/其他库/windows.h.md",
+    "60-CS/C_CPP/其他库/cstdio.md",
+    "60-CS/C_CPP/小知识点/隐式转换.md",
+    "60-CS/C_CPP/小知识点/结构体.md",
+    "60-CS/C_CPP/小知识点/类C语言.md",
+    "60-CS/C_CPP/小知识点/枚举类型.md",
+    "60-CS/C_CPP/小知识点/建立自己的函数库.md",
+    "60-CS/C_CPP/小知识点/共用体.md",
+    "60-CS/C_CPP/小知识点/EOF.md",
+    "60-CS/C_CPP/小知识点/C_重定向.md",
+    "60-CS/C_CPP/指针/0-指针目录.md",
+    "60-CS/C_CPP/指针/指向指针的指针.md",
+    "60-CS/C_CPP/指针/指针和下标（索引）.md",
+    "60-CS/C_CPP/指针/指针和函数.md",
+    "60-CS/C_CPP/指针/指针和变量.md",
+    "10-Help/Github",
+    "60-CS/Map_Generation/Web_Pages/Simplex Noise（一）-CSDN博客.pdf",
+    "60-CS/Map_Generation/Web_Pages/The Nature of Code.pdf",
+    "60-CS/Map_Generation/Web_Pages/Procedural Map Generation - Cogmind _ Grid Sage Games.pdf",
+    "60-CS/Map_Generation/Web_Pages/Perlin Noise _ Ronja's tutorials.pdf",
+    "60-CS/Map_Generation/Web_Pages/Perlin Noise.pdf",
+    "77-Efficiency/Canvas/未命名.canvas"
+  ]
+}
