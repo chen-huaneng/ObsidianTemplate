@@ -16,8 +16,8 @@
               "state": {
                 "file": "88-Template/home.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -43,7 +43,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -109,7 +110,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -147,28 +150,43 @@
               "icon": "links-coming-in",
               "title": "home 的反向链接列表"
             }
+          },
+          {
+            "id": "f4e0e467ae4405a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "graph:查看关系图谱": false,
       "switcher:打开快速切换": true,
       "templates:插入模板": true,
       "command-palette:打开命令面板": true,
-      "workspaces:管理工作区布局": true
+      "workspaces:管理工作区布局": true,
+      "homepage:Open homepage": false
     }
   },
-  "active": "37c8f55a8ef7a09c",
+  "active": "da8864fe43b8f2e2",
   "lastOpenFiles": [
-    "88-Template/tp/Template.md",
     "88-Template/home.md",
+    "88-Template/tp/Template.md",
     "50-Inbox/未命名.md",
     "60-CS/Algorithms/Algorithms_Problem.md",
     "99-Attachment/images/Gallery_Computer_science/微信图片_20230524131055.jpg",
